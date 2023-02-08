@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @am-innocenter
+- 👋 Hi, I’m Innocenter
 - 👀 I’m interested in all things data, statistical computing, statistical and machine learning and data visualization
 - 🌱 I’m currently learning tidymodels R package, generalised linear latent variable modles and Probabilistic Graphical models (Bayesian netowrks)
 - 💞️ I’m looking to collaborate on research and data consulting projects (financial services, consumer goods, renewable energy, agriculture or climate-related)
